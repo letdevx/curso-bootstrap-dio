@@ -1,0 +1,16 @@
+.navbar{
+    background-color: blue!important;
+}
+.container-quem-somos{
+    background-color: aqua; 
+    color: antiquewhite;
+} 
+
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+} 
+img{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
